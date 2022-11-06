@@ -21,7 +21,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://moehtetmyint99.github.io/News-homepage-solution/)
+- Live Site URL: [News-homepage-solution](https://moehtetmyint99.github.io/News-homepage-solution/)
 
 ## My process
 
