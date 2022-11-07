@@ -52,6 +52,6 @@ body{
         max-width: 700px;
     }
     @include screenSize(small){
-        overflow-x: hidden;
+        overflow: hidden;
     }
 }
